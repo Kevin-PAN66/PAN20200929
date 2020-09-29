@@ -46,7 +46,7 @@ As Kenye Wast Said:
 - [ ] this is an incomplete item
 
 ```Javascript
-function (){
+function test(){
  console.log("look na', no spaces");
 }
 ```
