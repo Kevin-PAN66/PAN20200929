@@ -71,8 +71,8 @@ Type "help", "copyright", "credits" or "license" for more information.
 3. Item 3
    * Item 3a
      * Item 3b
-![NKUST](nkust_s.png "高雄科大")
 ```
+![NKUST](nkust_s.png "高雄科大")
 
 |First | Second | Third |
 |:-----|:------:|------:|
