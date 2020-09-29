@@ -10,6 +10,6 @@ _THis text will be italic_
 
 **THis text will be bold**
 
-__THis text will be bold*__
+__THis will also be bold*__
 
 *YOU **Can** combine them*
