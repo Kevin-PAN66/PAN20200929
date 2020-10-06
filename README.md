@@ -88,4 +88,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 <img src= "https://github.com/Kevin-PAN66/PAN20200929/blob/master/nkust_s.png" alt = "you image title" width="250"/>
 
+![Imgur](https://free.com.tw/blog/wp-content/uploads/2013/07/imgur2013-07-04_1201.png "Imgur")
 
+
+<img src= "https://free.com.tw/blog/wp-content/uploads/2013/07/imgur2013-07-04_1201.png" alt = "you image title" width="250"/>
